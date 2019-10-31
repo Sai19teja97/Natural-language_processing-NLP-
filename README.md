@@ -1,2 +1,2 @@
-# Ntural-language_processing-NLP-
+# Natural-language_processing-NLP-
 NLP
